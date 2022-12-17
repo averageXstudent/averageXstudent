@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @averageXstudent
-- 👀 I’m interested in Web Development & UI/UX Design
-- 🌱 I’m currently learning Web Development/Web Designing/UI/UX Designing
-- 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me - bhawankoli987@gmail.com
+- 👋 Hi, I’m @averageXstudent.
+- 👀 I’m interested in Web Development & UI/UX Design.
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on Web Development/Web Designing/UI/UX Designing.
+- 📫 How to reach me - bhawankoli987@gmail.com.
 
 <!---
 averageXstudent/averageXstudent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
